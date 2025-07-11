@@ -5,3 +5,7 @@ h1 {
 body{
   color: antiquewhite;
 }
+p{
+  font-weight: bold;
+  color: brown;
+}
