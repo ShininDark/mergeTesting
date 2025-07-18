@@ -1,4 +1,4 @@
-<h1>Merging Type Shi</h1>
+<h1>Merging</h1>
 
 <p><em>A brief one-liner describing your project and its purpose.</em></p>
 
